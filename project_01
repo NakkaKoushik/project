@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        LogIn
+    </title>
+<style>
+    body{
+        background-color: black;
+    }
+    #h1{
+        background-color: darkgrey;
+        padding: 10px;
+    }
+    #cul{
+        margin-top: -13x;
+        float: right;
+        margin-right: 80px;
+    }
+    #log{
+        margin-top:-21px ;
+        float: right;
+        margin-right: 25px;
+    }
+    #cs1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+        color: white;
+        font-size: x-large;
+        margin-top: 10px;
+    }
+    #p{
+        color:white;
+        margin-left: 200px;
+        margin-top: -18px;
+    }
+    #s{
+        color: white;
+        margin-left: 275px;
+        margin-top: -18px;
+    }
+    #r{
+        color: white;
+        margin-left: 360px;
+        margin-top: -18px;
+    }
+    #pg{
+        color: white;
+        margin-left: 445px;
+        margin-top: -18px;
+    }
+    #h5{
+        padding: 5px;
+        color: white;
+        background-color: green;
+        width: 17%;
+        text-align: center;
+    }
+    #para1{
+        color: white;
+        padding: 30px;
+        text-align: center;
+        margin-top: 50px;
+        border-style: solid;
+        border-color: darkgrey;
+        width: 44%;
+    }
+    #b1{
+        padding: 5px;
+        color: white;
+        background-color: green;
+    }
+    #para2{
+        color: white;
+        padding: 30px;
+        text-align: center;
+        margin-top: -384px;
+        border-style: solid;
+        border-color: darkgrey;
+        width: 44%;
+        float: right;
+        height: 315px;
+    }
+    #b2{
+        padding: 5px;
+        color: white;
+        background-color: green;
+    }
+</style>
+</head>
+<body>
+    <header id="h1"><a id="cul" href="contactus.html"><span style="color:white">Contact Us</span></a></header>
+    <header id="h1" ><a id="log" href="#"><span style="color:white">Log In</span></a></header>
+    <header id="cs1"><b><span style="color:white">Coding School</span></b></header>
+    <header id="p"><a href="#"><span style="color:white">Products</span></a></header>
+    <header id="s"><a href="#"><span style="color:white">Solutions</span></a></header>
+    <header id="r"><a href="#"><span style="color:white">Resources</span></a></header>
+    <header id="pg"><a href="#"><span style="color:white">Pricing</span></a></header>
+<div id="para1">
+    <center> <h3 id="h5">BUSINESS</h3> </center>
+    <h1 id="h2"> For <span style="color:lightgreen"> Companies</span></h1>
+    <p> We are the market-Leading Technical interview
+        platform to identify and hire developers with the right skills. </p> <br>
+    <a href="business login.html"><button id="b1">Log in</button></a> <br>
+    <p>Don't have an account?</p>
+    <p><b>Contact sales</b> or <b>Get free trial.</b></p>
+</div>
+<div id="para2">
+    <h1 id="h6">For <span style="color:lightblue">Developers</span></h1> 
+    <br>
+    <p>Join over 21 million developers, Practice coding skills,
+        Prepare for interview, and get hired.
+    </p> <br>
+    <a href="for developers.html"><button id="b2">Login</button></a> <br>
+    <p>Don't have an account?</p>
+    <p><a href="up.html"><b><span style="color: white;"> Sign up.</span></b></a></p>
+</div>
+</body>
+</html>
